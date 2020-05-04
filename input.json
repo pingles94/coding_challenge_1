@@ -1,0 +1,12 @@
+[
+    {
+        "url": "https://www.google.com", 
+        "path":  "path_value_1", 
+        "size": 10
+    }
+    {
+        "url": "https://www.yahoo.com", 
+        "path":  "path_value_2", 
+        "size": 20
+    }
+]
